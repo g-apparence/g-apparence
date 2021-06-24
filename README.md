@@ -1,4 +1,16 @@
-### Hi there 👋
+### Apparence.io - co-founder
+We created a team where we constantly learn new things. Our studio delivers quality over quantity. 
+
+We 💙 : 
+- TDD
+- pair programming 
+- good code
+- Flutter
+- Spring, Kotlin, Rust, Angular...
+
+💬  - How to reach me: 
+- [Apparence.io website](https://en.apparence.io) 
+- [On my twitter](https://twitter.com/mcflyDev) 
 
 <!--
 **g-apparence/g-apparence** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
