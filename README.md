@@ -1,7 +1,10 @@
-### Apparence.io - co-founder
-We created a team where we constantly learn new things. Our studio delivers quality over quantity. 
+<a href="https://en.apparence.io"><img src="https://github.com/Apparence-io/bart/raw/master/.github/img/logo.png" alt="Apparence.io logo"></a>
 
-We 💙 : 
+Apparence studio is a team where we constantly learn new things. Our studio delivers quality over quantity. 
+From UX/UI design to production. 
+<br>
+
+**We 💙 :** 
 - TDD
 - pair programming 
 - good code
