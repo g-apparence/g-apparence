@@ -12,7 +12,7 @@ From UX/UI design to production.
 - Spring, Kotlin, Rust, Angular...
 
 💬  - How to reach me: 
-- [Apparence.io website](https://en.apparence.io) 
+- [Apparence.io website](https://apparence.io) 
 - [On my twitter](https://twitter.com/mcflyDev) 
 
 <!--
