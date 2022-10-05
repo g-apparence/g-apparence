@@ -1,7 +1,8 @@
 <a href="https://apparence.io"><img src="https://github.com/Apparence-io/bart/raw/master/.github/img/apparence_logo.png" alt="Apparence.io logo"></a>
 
-Apparence studio is a team where we constantly learn new things. We prefer quality over quantity. <br>
-From UX/UI design to production.
+Quality over quantity.<br>
+Apparence studio is a team where we constantly learn new things.<br>
+From UX/UI design to production, we offers all you need to create top class apps.
 <br>
 
 **We 💙 :** 
@@ -9,7 +10,7 @@ From UX/UI design to production.
 - pair programming 
 - good code
 - Flutter
-- Spring, Kotlin, Rust, Angular...
+- Spring, Quarkus, Kotlin, Rust, Angular...
 
 💬  - How to reach me: 
 - [Apparence.io website](https://apparence.io) 
