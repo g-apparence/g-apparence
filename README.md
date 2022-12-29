@@ -1,4 +1,4 @@
-<a href="https://apparence.io"><img src="https://github.com/g-apparence/g-apparence/raw/master/res/header.png" alt="Apparence.io logo"></a>
+<a href="https://apparence.io"><img src="https://github.com/g-apparence/g-apparence/blob/main/res/header.png?raw=true" alt="Apparence.io logo"></a>
 
 # Hello, my name is Gautier 👋
 ### Tech entrepreneur and full-stack Flutter expert
