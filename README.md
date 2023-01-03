@@ -2,10 +2,6 @@
 
 # Hello, my name is Gautier 👋
 ### Tech entrepreneur and full-stack Flutter expert
-
-> Quality > quantity.
-
-<br>
 I'm a developper that believes in collaboration. 
 <br>
 Development is not the beginning of a great product. So I co-founded Apparence.io that brings all expert required to create awesome mobile applications.<br> 
@@ -18,8 +14,8 @@ I 💙 Flutter and discovering new technologies.
         <h2>Apparence</h2>
         <div style="width:100%; border:0.1rem #fafafa solid;"></div>
         Apparence is a studio dedicated to create top class applications.
-        From UX/UI design, to development and product management, we offers everything you need to create a mobile application.<br><br>
-        We are Flutter experts.
+        From UX/UI design, to development and product management, we offers everything you need to create a mobile application.<br>
+        We are Flutter experts.<br><br>
         <a style="display:block; margin-top:16px" href="https://apparence.io">Check more</a>
     </div>
     <div style="width: 16px"></div>
