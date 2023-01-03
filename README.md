@@ -4,8 +4,9 @@
 ### Tech entrepreneur and full-stack Flutter expert
 I'm a developper that believes in collaboration. 
 <br>
-Development is not the beginning of a great product. So I co-founded Apparence.io that brings all expert required to create awesome mobile applications.<br> 
-I 💙 Flutter and discovering new technologies.
+Development is not the beginning of a great product. I co-founded Apparence.io that brings all expert required to create awesome mobile applications.<br> 
+I 💙 Flutter and discovering new technologies.<br>
+🚀 Currently launching Pal...
 <br>
 <br>
 
