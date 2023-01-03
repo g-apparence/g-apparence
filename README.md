@@ -9,25 +9,20 @@ I 💙 Flutter and discovering new technologies.
 <br>
 <br>
 
-<div style="display:flex; flex-direction: row; width: 100%;margin-bottom:32px">
-    <div style="width: 50%">
-        <h2>Apparence</h2>
-        <div style="width:100%; border:0.1rem #fafafa solid;"></div>
-        Apparence is a studio dedicated to create top class applications.
-        From UX/UI design, to development and product management, we offers everything you need to create a mobile application.<br>
-        We are Flutter experts.<br><br>
-        <a style="display:block; margin-top:16px" href="https://apparence.io">Check more</a>
-    </div>
-    <div style="width: 16px"></div>
-    <div style="width: 50%">
-        <h2>Pal</h2>
-        <div style="width:100%; border:0.1rem #fafafa solid;"></div>
-        <strong>Your best in-app friend!</strong><br>
-        Pal is a plugin for web and mobile that creates a real connection with your users. Using video you can onboard or get effective feedbacks from your users.<br>
-        <br>
-        <i>More coming soon</i>
-    </div>
-</div>
+
+## [Apparence](https://apparence.io)
+<div style="width:100%; border:0.1rem #fafafa solid;"></div>
+Apparence is a studio dedicated to create top class applications.
+From UX/UI design, to development and product management, we offers everything you need to create a mobile application.<br>
+We are Flutter experts.<br>
+<br>
+
+## [Pal](https://pal.video)
+<div style="width:100%; border:0.1rem #fafafa solid;"></div>
+<strong>Your best in-app friend!</strong><br>
+Pal is a plugin for web and mobile that creates a real connection with your users. Using video you can onboard or get effective feedbacks from your users.<br>
+<br>
+
 
 ------------
 
