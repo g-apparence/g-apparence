@@ -15,7 +15,6 @@ I 💙 Flutter and discovering new technologies.
 Apparence is a studio dedicated to create top class applications.
 From UX/UI design, to development and product management, we offers everything you need to create a mobile application.<br>
 We are Flutter experts.<br>
-<br>
 
 ## [Pal](https://pal.video)
 <div style="width:100%; border:0.1rem #fafafa solid;"></div>
