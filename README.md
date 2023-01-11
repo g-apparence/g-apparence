@@ -6,10 +6,17 @@ I'm a developper that believes in collaboration.
 <br>
 Development is not the beginning of a great product. I co-founded Apparence.io that brings all expert required to create awesome mobile applications.<br> 
 I 💙 Flutter and discovering new technologies.<br>
-🚀 Currently launching Pal...
-<br>
+
+> 🚀 Currently launching Pal.video...
+
 <br>
 
+## 💬  Contact and follow
+
+![Twitter Follow](https://img.shields.io/twitter/follow/mcflydev?color=blue&logo=twitter&logoColor=white&style=for-the-badge)
+[![LinkedIn](https://img.shields.io/badge/linkedin-gautier-blue?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/gautier-siclon/)
+
+<br>
 
 ## [Apparence](https://apparence.io)
 <div style="width:100%; border:0.1rem #fafafa solid;"></div>
@@ -52,8 +59,45 @@ Pal is a plugin for web and mobile that creates a real connection with your user
 **Learning**<br/>
 ![image](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324)
 
+<br>
 
-## 💬  Contact and follow
+-----
 
-![Twitter Follow](https://img.shields.io/twitter/follow/mcflydev?color=blue&logo=twitter&logoColor=white&style=for-the-badge)
-[![LinkedIn](https://img.shields.io/badge/linkedin-gautier-blue?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/gautier-siclon/)
+<br>
+
+__Pal has a plugin for every platforms__
+<!-- <div>
+  <p>
+    <a href="https://github.com/Apparence-io/CamerAwesome">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Apparence-io&repo=CamerAwesome" alt="Camerawesome flutter camera plugin" />
+    </a>
+    <a href="https://github.com/Apparence-io/gate">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Apparence-io&repo=gate" alt="dart and flutter dependency injection package" />
+    </a>
+    <a href="https://github.com/Apparence-io/bart">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Apparence-io&repo=bart" alt="flutter easy bottom navigation package" />
+    </a>
+    <a href="https://github.com/Pal-video/">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pal-video&repo=Pal-video" alt="Pal " />
+    </a>
+  </p>
+</div> -->
+<div>
+  <p>
+    <a href="https://github.com/Pal-video/">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pal-video&repo=pal-flutter-plugin" alt="Pal " />
+    </a>
+    <a href="https://github.com/Pal-video/">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pal-video&repo=pal-web-plugin" alt="Pal " />
+    </a>
+    <a href="https://github.com/Pal-video/">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pal-video&repo=pal-android-plugin" alt="Pal " />
+    </a>
+    <a href="https://github.com/Pal-video/">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pal-video&repo=pal-ios-plugin" alt="Pal " />
+    </a>
+  </p>
+</div>
+
+
+
