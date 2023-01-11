@@ -1,11 +1,13 @@
 <a href="https://apparence.io"><img src="https://github.com/g-apparence/g-apparence/blob/main/res/header.png?raw=true" alt="Apparence.io logo"></a>
 
 # Hello, my name is Gautier 👋
-### Tech entrepreneur and full-stack Flutter expert
+## 👉 Tech entrepreneur and full-stack Flutter expert
 I'm a developper that believes in collaboration. 
 <br>
 Development is not the beginning of a great product. I co-founded Apparence.io that brings all expert required to create awesome mobile applications.<br> 
-I 💙 Flutter and discovering new technologies.<br>
+- Flutter addict
+- Love discovering new technologies
+- Curious 
 
 > 🚀 Currently launching Pal.video...
 
