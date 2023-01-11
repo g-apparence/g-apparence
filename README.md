@@ -9,14 +9,10 @@ I 💙 Flutter and discovering new technologies.<br>
 
 > 🚀 Currently launching Pal.video...
 
-<br>
-
 ## 💬  Contact and follow
-
 ![Twitter Follow](https://img.shields.io/twitter/follow/mcflydev?color=blue&logo=twitter&logoColor=white&style=for-the-badge)
 [![LinkedIn](https://img.shields.io/badge/linkedin-gautier-blue?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/gautier-siclon/)
 
-<br>
 
 ## [Apparence](https://apparence.io)
 <div style="width:100%; border:0.1rem #fafafa solid;"></div>
