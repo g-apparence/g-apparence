@@ -2,9 +2,10 @@
 
 # Hello, my name is Gautier 👋
 ## 👉 Tech entrepreneur and full-stack Flutter expert
-I'm a developper that believes in collaboration. 
+I'm a developer who believes that you have to be more than a good developer to create a good product. 
 <br>
-Development is not the beginning of a great product. I co-founded Apparence.io that brings all expert required to create awesome mobile applications.<br> 
+Development is not the beginning of a great product.<br>  
+I co-founded Apparence.io which brings all experts required to create awesome mobile applications.<br> 
 - Flutter addict
 - Love discovering new technologies
 - Curious 
