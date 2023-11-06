@@ -27,8 +27,9 @@ We are Flutter experts.<br>
 <div style="width:100%; border:0.1rem #fafafa solid;"></div>
 ApparenceKit is a CLI tool to generate a Flutter app template with a scalable and solid architecture.<br>
 Because we thinks that wasting time on creating same modules again and again should not be a thing, we created ApparenceKit.<br>
-Spend time working on your mobile app, not setting up subscription, authentications... and other boring code
+Spend time working on your mobile app, not setting up subscription, authentications... and other boring code<br>
 It comes with a lot of features like:
+
 - Hexagonal Architecture
 - Navigation (adaptive for web and mobile)
 - Analytics 
