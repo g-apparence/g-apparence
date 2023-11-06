@@ -87,9 +87,7 @@ But it also gives you the possibility to easily use Machine Learning to detect o
 
 -----
 
-<br>
-
-__Pal has a plugin for every platforms__
+<!-- __Pal has a plugin for every platforms__ -->
 <!-- <div>
   <p>
     <a href="https://github.com/Apparence-io/CamerAwesome">
@@ -106,7 +104,8 @@ __Pal has a plugin for every platforms__
     </a>
   </p>
 </div> -->
-<div>
+
+<!-- <div>
   <p>
     <a href="https://github.com/Pal-video/">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pal-video&repo=pal-flutter-plugin" alt="Pal " />
@@ -121,7 +120,7 @@ __Pal has a plugin for every platforms__
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pal-video&repo=pal-ios-plugin" alt="Pal " />
     </a>
   </p>
-</div>
+</div> -->
 
 
 
