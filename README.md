@@ -10,7 +10,7 @@ I co-founded Apparence.io which brings all experts required to create awesome mo
 - Love discovering new technologies
 - Curious 
 
-> 🚀 Currently launching Pal.video...
+> 🚀 Currently launching ApparenceKit: A professional CLI template generator for Flutter with everithing we use in our studio.
 
 ## 💬  Contact and follow
 ![Twitter Follow](https://img.shields.io/twitter/follow/mcflydev?color=blue&logo=twitter&logoColor=white&style=for-the-badge)
@@ -23,11 +23,30 @@ Apparence is a studio dedicated to create top class applications.
 From UX/UI design, to development and product management, we offers everything you need to create a mobile application.<br>
 We are Flutter experts.<br>
 
-## [Pal](https://pal.video)
+## [ApparenceKit](https://apparencekit.dev)
+<div style="width:100%; border:0.1rem #fafafa solid;"></div>
+ApparenceKit is a CLI tool to generate a Flutter app template with a scalable and solid architecture.<br>
+Because we thinks that wasting time on creating same modules again and again should not be a thing, we created ApparenceKit.<br>
+Spend time working on your mobile app, not setting up subscription, authentications... and other boring code
+It comes with a lot of features like:
+- Hexagonal Architecture
+- Navigation (adaptive for web and mobile)
+- Analytics 
+- Authentication
+- CI/CD
+- Internationalization
+- In app purchase
+- Push notifications
+- Social login
+- Notifications list
+- State management
+- ... and more
+
+<!-- ## [Pal](https://pal.video)
 <div style="width:100%; border:0.1rem #fafafa solid;"></div>
 <strong>Your best in-app friend!</strong><br>
 Pal is a plugin for web and mobile that creates a real connection with your users. Using video you can onboard or get effective feedbacks from your users.<br>
-<br>
+<br> -->
 
 
 ------------
