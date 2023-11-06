@@ -54,7 +54,6 @@ Pal is a plugin for web and mobile that creates a real connection with your user
 CamerAwesome is a Flutter plugin that allows you to easily take photos and videos with your camera. It also allows you to customize your camera with a lot of features.<br>
 It contains a premade UI that you can use or customize to fit your needs.<br>
 But it also gives you the possibility to easily use Machine Learning to detect objects, faces, barcodes and more.<br>
-CHeck it out on [pub.dev](https://pub.dev/packages/camerawesome)
 
 ------------
 
